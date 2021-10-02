@@ -1,0 +1,21 @@
+.cart-style{
+    background-color:  rgb(204, 199, 199);
+    color: rgb(36, 28, 28);
+    text-align: center;
+    border-radius: 15px;
+    padding: 10px;
+    border: 2px solid wheat;
+    margin: 10px;
+}
+.price-style {
+    margin-left: 10px;
+    text-align: left;
+    font-weight:500;
+    
+    
+    
+}
+.price{
+    margin-left: 50%;
+}
+
